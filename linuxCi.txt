@@ -1,0 +1,8 @@
+rm
+mv
+cp
+tar
+mkdir
+tunch
+grep
+::
