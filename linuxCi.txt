@@ -1,4 +1,4 @@
-irm
+rm
 mv
 cp
 tar
