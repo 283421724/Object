@@ -1,4 +1,4 @@
-irm
+rm
 mv
 cp
 tar
@@ -8,3 +8,4 @@ grep
 ::
 just is use commind,
 ask answer;
+from myDev branch;
