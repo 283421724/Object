@@ -1,4 +1,4 @@
-rm
+irm
 mv
 cp
 tar
@@ -6,3 +6,5 @@ mkdir
 tunch
 grep
 ::
+just is use commind,
+ask answer;
